@@ -1,9 +1,5 @@
 # Olx Clone: [Frontend]
 
-## Frontend Deployed Link
-
-## https://olx-clone-seven.vercel.app/
-
 ## ReactJS and CSS Has been used for frontend.
 
 In the project directory, you can run:
